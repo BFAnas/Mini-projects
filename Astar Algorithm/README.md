@@ -6,3 +6,4 @@ Barcelona to the Giralda (Calle Mateos Gago) in Sevilla.
 We are going to test 3 variations of the A*: the firrst, with the heuristic function equal to zero,
 this is the special case of the Dijkstra algorithm, the second, using the Haversine distance as the
 heuristic function, and finally using the Spherical Law of Cosines.
+You can find much more information in the report included: Astar.pdf
